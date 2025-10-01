@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Joblib models
+*.joblib
+
+# Plots
+*.png
+
+# OS files
+.DS_Store
+
+# Virtual environment
+venv/
