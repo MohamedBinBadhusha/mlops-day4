@@ -13,3 +13,7 @@ __pycache__/
 
 # Virtual environment
 venv/
+
+# Extra for testing
+*.pkl
+dummy.txt
